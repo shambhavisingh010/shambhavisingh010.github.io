@@ -9,7 +9,6 @@ excerpt: >
   "This assumption about independence of my parameters, it's not working anymore," it replied.  
   And the study started, with the help of Gaussian copula and MCMC methods.
 
-date: 2024
 venue: "Aligarh Journal of Statistics"
 paperurl: "https://www.aligarhjournalstatistics.com/issues/ajs-v-44-2024/7-shambhavi-singh.pdf"
 citation: >
