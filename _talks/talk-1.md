@@ -1,7 +1,7 @@
 ---
 title: "Exploring Human Fertility Trends through a Parametric Bayesian Framework."
 collection: talks
-type: "Talk"
+type: "Paper Presentation"
 permalink: /talks/talk-1
 venue: "International Conference on Recent Developments in the Techniques of Bayesian Paradigm"
 date: 2025-01-07
