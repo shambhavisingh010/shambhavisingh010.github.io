@@ -1,7 +1,7 @@
 ---
 title: "Modelling Distorted Human Fertility via Generalised Logistic Distribution"
 collection: talks
-type: "Talk"
+type: "Paper Presentation"
 permalink: /talks/talk-2
 venue: "International Conference on Recent Advances of  Probability and Statistics in Interdisciplinary Research-2024 (RAPSIR)"
 date: 2024-02-06
