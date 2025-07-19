@@ -2,7 +2,7 @@
 title: "Modeling Human Fertility Using Variance-adjusted Logistic Family of Distributions"
 collection: publications
 category: manuscripts
-permalink: /publication/paper-1
+permalink: /publications/paper-2
 excerpt: ' What to do when the fertility models can no longer keep up with the ever changing shapes of fertility curves? This work proposes a family of flexible models that adjusts not just according to temporal changes but geographic locations as well.          You can think of them as statistical chameleons — able to morph into unimodal, skewed, or even bimodal shapes depending on the context of study!!'
 date: 2025-07-18
 venue: 'American Journal of Mathematical and Management Sciences'
