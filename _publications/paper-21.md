@@ -1,5 +1,5 @@
 ---
-title: "A Bayes Study of Human Fertility Curve Using Mixture of Two Weibull Densities"
+title: #"A Bayes Study of Human Fertility Curve Using Mixture of Two Weibull Densities"
 collection: publications
 category: manuscripts
 permalink: /publications/paper-21
