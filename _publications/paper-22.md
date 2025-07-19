@@ -13,8 +13,7 @@ date: 2024
 venue: "Aligarh Journal of Statistics"
 paperurl: "https://www.aligarhjournalstatistics.com/issues/ajs-v-44-2024/7-shambhavi-singh.pdf"
 citation: >
-  Singh, S., Gupta, A., & Upadhyay, S. K. (2025). "Bayes Analysis of Hadwiger Fertility Model Using Markov Chain Monte Carlo Simulation",
-  *Aligarh Journal of Statistics*, Vol. 44, 103–112.
+  Singh, S., Gupta, A., & Upadhyay, S. K. (2025). "Bayes Analysis of Hadwiger Fertility Model Using Markov Chain Monte Carlo Simulation", *Aligarh Journal of Statistics*, Vol. 44, 103–112.
 ---
 
   
