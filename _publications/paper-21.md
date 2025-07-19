@@ -1,17 +1,17 @@
 ---
-title: "Modeling Human Fertility Using Variance-adjusted Logistic Family of Distributions"
+title: "A Bayes Study of Human Fertility Curve Using Mixture of Two Weibull Densities"
 collection: publications
 category: manuscripts
-permalink: /publications/paper-2
-excerpt: ' What to do when the fertility models can no longer keep up with the ever changing shapes of fertility curves? This work proposes a family of flexible models that adjusts not just according to temporal changes but geographic locations as well.          You can think of them as statistical chameleons — able to morph into unimodal, skewed, or even bimodal shapes depending on the context of study!!'
-date: 2025-07-18
-venue: 'American Journal of Mathematical and Management Sciences'
-paperurl: 'https://doi.org/10.1080/01966324.2025.2530383'
-citation: 'Singh, S., Gupta, A., & Upadhyay, S. K. (2025). &quot;Modeling Human Fertility Using Variance-Adjusted Logistic Family of Distributions.&quot; <i>American Journal of Mathematical and Management Sciences</i>. 1-24.'
+permalink: /publications/paper-21
+excerpt: ' 'The ASFR curves aren't smooth anymore. Instead they have humps in the early ages of childbearing. These distortions are obviously a reflection of societal shifts like early age births for few and delayed motherhood for others at the same time.   With 3 competing models on the table — Weibull-Weibull, Weibull-Normal, and Generalized Gamma-Normal—the Bayesian toolkit comes to the rescue.   Conclusion -The answer to distortions lies not in complexity, but in some clever combinations!!'
+date: 2025-04-12
+venue: 'Journal of the Indian Society for Probability and Statistics'
+paperurl: 'https://doi.org/10.1007/s41096-025-00233-z'
+citation: 'Singh, S. & Upadhyay, S. K. (2025). &quot;A Bayes Study of Human Fertility Curve Using Mixture of Two Weibull Densities.&quot;<i>Journal of the Indian Society for Probability and Statistics</i>.437-461.'
 ---
-Abstract.
-With changes in the fertility patterns, the earlier developed demographic models fall short in imitating the changes that occur with respect to both time and geographic locations. Models providing a good fit for the classical fertility patterns prove to be inadequate in case of distorted patterns, whereas those useful for distorted data prove to be inefficient and can have poor predictive performance for traditional curves. In this paper, a logistic distribution is taken as a base and new models are proposed for modelling these gradual changes in the age-specific fertility rates. The work consists of differentiating between the pre-modal and the post-modal variability and explores Bayesian techniques to deal with such problems. To show the relevance of the models in current scenario, the real life age-specific fertility rate data of three countries, namely Denmark, India, and Ireland, having different age-specific fertility rate shapes for different years are considered and the posterior samples are generated for further analysis using the Metropolis algorithm. The proposed models are found compatible and satisfactory results are obtained for their respective usages. Finally, the proposed models are compared using some model comparison tools and the best among the proposed models is suggested.
+Abstract. 
+The paper considers the use of a mixture of two Weibull densities to represent fertility patterns with a hump or bimodality behaviour, a pattern in fertility that has been noticed by researchers in the last two to three decades. Assuming the births to be distributed as a binomial variate and taking into account the period age-specific fertility rates, the paper relies on the Bayes paradigm to provide the complete posterior analysis. Guided by the results of the proposed mixture of two Weibull densities, the paper then proposes two other mixture models, that is, the mixture of normal and Weibull and the mixture of normal and generalized gamma densities. The Metropolis algorithm with a properly chosen candidate generating density is considered to generate the posterior samples in each case. The unabridged data are used for numerical illustration. Finally, the proposed models are compared to recommend the most appropriate model after establishing the compatibility of the proposed models with the data in hand. The work is, of course, motivated by the earlier studies that overlooked the use of more flexible lifetime models in studying fertility patterns with hump or bimodality and, as such, prompting us to integrate them into our analysis.
 
-Keywords: Age-specific fertility rate modeling, Bayes information criterion, bimodality, logistic distribution, Metropolis algorithm, predictive loss criterion, prior distribution.
+Keywords: Age-specific fertility rate, Bimodality, Metropolis algorithm, Weibull density, Normal density, Generalized gamma density, Mixture densities, Vague prior.
 
 🧠 Want to talk Bayesian modeling, demographic shifts, or the math behind fertility patterns? I’d love to connect.
