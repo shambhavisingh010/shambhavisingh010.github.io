@@ -13,8 +13,7 @@ date: 2025-04-12
 venue: "Journal of the Indian Society for Probability and Statistics"
 paperurl: "https://doi.org/10.1007/s41096-025-00233-z"
 citation: >
-  Singh, S. & Upadhyay, S. K. (2025). "A Bayes Study of Human Fertility Curve Using Mixture of Two Weibull Densities."
-  *Journal of the Indian Society for Probability and Statistics*, 437–461.
+  Singh, S. & Upadhyay, S. K. (2025). "A Bayes Study of Human Fertility Curve Using Mixture of Two Weibull Densities." <i>Journal of the Indian Society for Probability and Statistics<i>, 437–461.
 ---
 
 
