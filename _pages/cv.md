@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Banaras Hindu University , 2025 (Analysis of Human Fertility Patterns Using Bayesian Paradigm)
+* M.Sc. in Statistics, 2019
+* B.Sc. in Statistics, 2017
 
-Work experience
+Courses studied
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Real Analysis
+* Measure theory and Probability
+* Linear Algebra
+* Sample Survey and Statistics for National Development
+* Distribution Theory and Non Parametric Inference
+* Linear Models and Regression Analysis
+* Statistical Computing (C, C++, JAVA, R, SPSS)
+* Statistical Inference
+* Design and Analysis of Experiments
+* Reliability
+* Stochastic Processes
+* Multivariate Analysis
+* Demography
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Bayesian data analysis
+* R programming
+* MCMC simulation techniques
+* Scientific writing
 
 Publications
 ======
@@ -47,18 +44,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Talks and Presentations
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-  
-%Teaching
-%======
-%  <ul>{% for post in site.teaching reversed %}
- %   {% include archive-single-cv.html %}
- % {% endfor %}</ul>
-  
-% Service and leadership
-%======
-%* Currently signed in to 43 different slack teams
+
+Awards and Recognitions
+======
+* Best Paper Award at the International Conference on Recent Developments in the Techniques of Bayesi-an Paradigm held at BHU, January 2025.
+* INSPIRE Fellowship: Awarded by the Department of Science and Technology (DST), Government of In-dia.
+* Junior Research Fellowship (JRF): Awarded by the University Grants Commission (UGC) in July 2022.
+* AIR-79 in GATE (Statistics) 2020: Awarded by National Coordination Board (NCB) for the Department of Higher Education, Ministry of Human Resources Development (MHRD), Government of India.
+* Gold Medal: Awarded by Patna University for getting first rank in M.Sc. Statistics.
+* Student member, Internal Quality Assurance Cell (NAAC), Patna University.
+
