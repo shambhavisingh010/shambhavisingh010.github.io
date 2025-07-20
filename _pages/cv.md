@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+You can download my detailed CV from [here](/files/shambhavi postdoc cv.pdf).
+
 Education
 ======
 * Ph.D in Statistics, Banaras Hindu University , 2025 (Analysis of Human Fertility Patterns Using Bayesian Paradigm)
