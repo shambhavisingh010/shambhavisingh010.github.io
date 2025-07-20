@@ -8,40 +8,51 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<div class="cv-section">
+  
 Get my detailed CV [here](/files/shambhavi postdoc cv.pdf).
 
-Education
-======
-* Ph.D in Statistics, Banaras Hindu University , 2025 (Analysis of Human Fertility Patterns Using Bayesian Paradigm)
-* M.Sc. in Statistics, 2019
-* B.Sc. in Statistics, 2017
 
-Courses studied
-======
-* Real Analysis
-* Measure theory and Probability
-* Linear Algebra
-* Sample Survey and Statistics for National Development
-* Distribution Theory and Non Parametric Inference
-* Linear Models and Regression Analysis
-* Statistical Computing (C, C++, JAVA, R, SPSS)
-* Statistical Inference
-* Design and Analysis of Experiments
-* Reliability
-* Stochastic Processes
-* Multivariate Analysis
+
+## Education
+
+* **Ph.D. in Statistics**, Banaras Hindu University, 2025  
+  _Thesis: Analysis of Human Fertility Patterns Using Bayesian Paradigm_
+
+* **M.Sc. in Statistics**, Patna University, 2019
+
+* **B.Sc. in Statistics**, Patna Women's College, 2017
+
+---
+
+## Courses Studied
+
+* Real Analysis  
+* Measure Theory and Probability  
+* Linear Algebra  
+* Sample Survey and Statistics for National Development  
+* Distribution Theory and Non-Parametric Inference  
+* Linear Models and Regression Analysis  
+* Statistical Computing (C, C++, JAVA, R, SPSS)  
+* Statistical Inference  
+* Design and Analysis of Experiments  
+* Reliability  
+* Stochastic Processes  
+* Multivariate Analysis  
 * Demography
-  
-Skills
-======
-* Bayesian data analysis
-* R programming
-* MCMC simulation techniques
-* Scientific writing
 
-Publications
-======
+---
+
+## Skills
+
+* Bayesian Data Analysis  
+* R Programming  
+* MCMC Simulation Techniques  
+* Scientific Writing
+
+---
+
+## Publications
 
 <ul>
   {% for post in site.publications reversed %}
@@ -49,9 +60,9 @@ Publications
   {% endfor %}
 </ul>
 
+---
 
-Talks and Presentations
-======
+## Talks and Presentations
 
 <ul>
   {% for post in site.talks reversed %}
@@ -59,19 +70,16 @@ Talks and Presentations
   {% endfor %}
 </ul>
 
+---
 
-Awards and Recognitions
-======
+## Awards and Recognitions
 
-* **Best Paper Award** at the International Conference on Recent Developments in the Techniques of Bayesian Paradigm held at BHU, January 2025.
+* **Best Paper Award** – International Conference on Bayesian Paradigm, BHU, January 2025  
+* **INSPIRE Fellowship** – Department of Science and Technology (DST), Government of India  
+* **Junior Research Fellowship (JRF)** – University Grants Commission (UGC), July 2022  
+* **GATE AIR-79 in Statistics (2020)** – National Coordination Board (NCB), MHRD  
+* **Gold Medal** – First Rank in M.Sc. Statistics, Patna University  
+* **Student Member** – Internal Quality Assurance Cell (NAAC), Patna University
 
-* **INSPIRE Fellowship**: Awarded by the Department of Science and Technology (DST), Government of India.
-
-* **Junior Research Fellowship (JRF)**: Awarded by the University Grants Commission (UGC) in July 2022.
-
-* **AIR-79 in GATE (Statistics) 2020**: Awarded by the National Coordination Board (NCB) for the Department of Higher Education, MHRD, Government of India.
-
-* **Gold Medal**: Awarded by Patna University for securing first rank in M.Sc. Statistics.
-
-* **Student Member**, Internal Quality Assurance Cell (NAAC), Patna University.
-
+---
+</div>
