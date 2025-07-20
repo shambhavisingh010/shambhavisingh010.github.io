@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my detailed CV from [here](/files/shambhavi postdoc cv.pdf).
+Get my detailed CV [here](/files/shambhavi postdoc cv.pdf).
 
 Education
 ======
@@ -42,22 +42,36 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+
+<ul>
+  {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+  {% endfor %}
+</ul>
+
+
 Talks and Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+
+<ul>
+  {% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}
+</ul>
+
 
 Awards and Recognitions
 ======
-* Best Paper Award at the International Conference on Recent Developments in the Techniques of Bayesi-an Paradigm held at BHU, January 2025.
-* INSPIRE Fellowship: Awarded by the Department of Science and Technology (DST), Government of In-dia.
-* Junior Research Fellowship (JRF): Awarded by the University Grants Commission (UGC) in July 2022.
-* AIR-79 in GATE (Statistics) 2020: Awarded by National Coordination Board (NCB) for the Department of Higher Education, Ministry of Human Resources Development (MHRD), Government of India.
-* Gold Medal: Awarded by Patna University for getting first rank in M.Sc. Statistics.
-* Student member, Internal Quality Assurance Cell (NAAC), Patna University.
+
+* **Best Paper Award** at the International Conference on Recent Developments in the Techniques of Bayesian Paradigm held at BHU, January 2025.
+
+* **INSPIRE Fellowship**: Awarded by the Department of Science and Technology (DST), Government of India.
+
+* **Junior Research Fellowship (JRF)**: Awarded by the University Grants Commission (UGC) in July 2022.
+
+* **AIR-79 in GATE (Statistics) 2020**: Awarded by the National Coordination Board (NCB) for the Department of Higher Education, MHRD, Government of India.
+
+* **Gold Medal**: Awarded by Patna University for securing first rank in M.Sc. Statistics.
+
+* **Student Member**, Internal Quality Assurance Cell (NAAC), Patna University.
 
