@@ -54,27 +54,35 @@ Awards and Recognitions
 Publications
 ======
 
-<ul>
-  {% for post in site.publications reversed %}
-    <li>
-      <p><strong>{{ post.title }}</strong><br>
-      {{ post.citation }}</p>
-    </li>
-  {% endfor %}
-</ul>
+{% for post in site.publications reversed %}
+<div style="margin-bottom: 1.5em;">
+  <strong>{{ post.title }}</strong><br>
+  <span style="font-size: 0.95em;">
+    {{ post.citation | markdownify }}
+  </span><br>
+  {% if post.paperurl %}
+    📄 <a href="{{ post.paperurl }}" target="_blank">Read paper</a>
+  {% endif %}
+</div>
+{% endfor %}
 
 
 Talks and Presentations
 ======
 
-<ul>
-  {% for post in site.talks reversed %}
-    <li>
-      <p><strong>{{ post.title }}</strong><br>
-      📅 {{ post.date | date: "%B %d, %Y" }}<br>
-      🗣️ {{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
+{% for post in site.talks reversed %}
+<div style="margin-bottom: 1.2em;">
+  <strong>{{ post.title }}</strong><br>
+  🗓️ <em>{{ post.date | date: "%B %Y" }}</em><br>
+  {% if post.excerpt %}
+    <span style="font-size: 0.95em;">{{ post.excerpt | markdownify }}</span><br>
+  {% endif %}
+  {% if post.slides %}
+    🎤 <a href="{{ post.slides }}" target="_blank">View slides</a>
+  {% endif %}
+</div>
+{% endfor %}
+
 </ul>
 
 
