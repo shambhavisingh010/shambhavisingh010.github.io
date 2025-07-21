@@ -7,7 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
   
 Get my detailed CV [here](/files/shambhavi postdoc cv.pdf).
 
@@ -78,4 +77,3 @@ Awards and Recognitions
 * **Student Member**, Internal Quality Assurance Cell (NAAC), Patna University.
 
 ---
-</div>
