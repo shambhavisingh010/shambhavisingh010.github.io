@@ -54,6 +54,10 @@ Awards and Recognitions
 Publications
 ======
 
+<p style="font-size: 0.9em; margin-top: -1em;">
+  🔗 For details, visit the <a href="/publications" target="_blank">Publications page</a>.
+</p>
+
 {% for post in site.publications reversed %}
 <div style="margin-bottom: 1.5em;">
   <strong>{{ post.title }}</strong><br>
@@ -66,9 +70,7 @@ Publications
 </div>
 {% endfor %}
 
-<p style="font-size: 0.9em; margin-top: -1em;">
-  🔗 For details, visit the <a href="/publications" target="_blank">Publications page</a>.
-</p>
+
 
 Talks and Presentations
 ======
@@ -86,6 +88,5 @@ Talks and Presentations
 </div>
 {% endfor %}
 
-</ul>
 
 
