@@ -8,14 +8,22 @@ redirect_from:
 ---
 
 **Hi, I am Dr. Shambhavi Singh!** 🎓📊📈
-
+<p>
 <img align="right" src="/images/buddha.jpg" width="150" style="margin-right: 15px;">
 
 Born and brought up in Bihar, a land that is steeped in knowledge. With the world’s first democracy in **Vaishali** and one of the oldest universities in **Nalanda**, be it Sita’s simplicity, Chanakya’s cleverness, Buddha's balance– this place is what rhythmed my reasoning.
+</p>
 
+<p>
+<img align="left" src="/images/ghat.jpg" width="150" style="margin-right: 15px;">
 Trained in the sacred soil of **Varanasi**, where Maa Ganga flows and Lord Shiva resides, I found my balance between temples and theorems - strolling through the ghats of Varanasi and the streets of **Banaras Hindu University**.
+</p>
 
+<p>
+<img align="right" src="/images/phd viva.jpg" width="150" style="margin-right: 15px;">
 My journey with Bayes began with fear and uncertainty, but led to faith and understanding for this school of thought when I defended my PhD thesis in June of 2025. 
+
+------
 
 When I'm not buried decoding posteriors or, doing computations, you'll most likely find me:
 - 📖 Lost in novels - contemporary or classic, English or Hindi
@@ -34,11 +42,5 @@ PS - I have to thank **Dr. Ross Geller** 🦖🧕 for making being nerdy this co
 
 
 
-
-
-
-
-
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
 
