@@ -7,19 +7,18 @@ redirect_from:
   - /resume
 ---
 
-After workflow
 Get my detailed CV [here](/files/shambhavi postdoc cv.pdf).
-
-
 
 Education
 ======
+
 * Ph.D in Statistics, Banaras Hindu University , 2025 (Analysis of Human Fertility Patterns Using Bayesian Paradigm)
 * M.Sc. in Statistics, 2019
 * B.Sc. in Statistics, 2017
 
 Courses studied
 ======
+
 * Real Analysis
 * Measure theory and Probability
 * Linear Algebra
@@ -36,6 +35,7 @@ Courses studied
   
 Skills
 ======
+
 * Bayesian data analysis
 * R programming
 * MCMC simulation techniques
@@ -43,6 +43,7 @@ Skills
 
 Publications
 ======
+
 <ul>
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -51,6 +52,7 @@ Publications
 
 Talks and Presentations
 ======
+
 <ul>
   {% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
@@ -59,6 +61,7 @@ Talks and Presentations
 
 Awards and Recognitions
 ======
+
 * **Best Paper Award** at the International Conference on Recent Developments in the Techniques of Bayesian Paradigm held at BHU, January 2025.
 
 * **INSPIRE Fellowship**: Awarded by the Department of Science and Technology (DST), Government of India.
