@@ -53,14 +53,28 @@ Awards and Recognitions
 
 Publications
 ======
+
+<ul>
   {% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    <li>
+      <p><strong>{{ post.title }}</strong><br>
+      {{ post.citation }}</p>
+    </li>
   {% endfor %}
+</ul>
 
 
 Talks and Presentations
 ======
-{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
+
+<ul>
+  {% for post in site.talks reversed %}
+    <li>
+      <p><strong>{{ post.title }}</strong><br>
+      📅 {{ post.date | date: "%B %d, %Y" }}<br>
+      🗣️ {{ post.excerpt }}</p>
+    </li>
+  {% endfor %}
+</ul>
+
 
