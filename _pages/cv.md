@@ -54,11 +54,9 @@ Awards and Recognitions
 Publications
 ======
 
-<ul>
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
-</ul>
 
 Talks and Presentations
 ======
@@ -66,7 +64,4 @@ Talks and Presentations
 {% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}
-
-
-
 
