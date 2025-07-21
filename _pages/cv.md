@@ -66,6 +66,9 @@ Publications
 </div>
 {% endfor %}
 
+<p style="font-size: 0.9em; margin-top: -1em;">
+  🔗 For details, visit the <a href="/publications" target="_blank">Publications page</a>.
+</p>
 
 Talks and Presentations
 ======
