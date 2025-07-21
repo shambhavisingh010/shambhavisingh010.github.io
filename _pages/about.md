@@ -9,21 +9,21 @@ redirect_from:
 
 **Hi, I am Dr. Shambhavi Singh!** 🎓📊📈
 
-<p>
-<img align="right" src="/images/buddha.jpg" width="150" style="margin-right: 15px;">
-
-Born and brought up in Bihar, a land that is steeped in knowledge. With the world’s first democracy in **Vaishali** and one of the oldest universities in **Nalanda**, be it Sita’s simplicity, Chanakya’s cleverness, Buddha's balance– this place is what rhythmed my reasoning.
+<p style="overflow: auto;">
+  <img src="/images/buddha.jpg" alt="Bihar and Buddha" style="float: right; margin: 10px 0 15px 20px; width: 150px; border-radius: 8px;">
+  Born and brought up in Bihar — a land steeped in knowledge. With the world’s first democracy in <strong>Vaishali</strong> and one of the oldest universities in <strong>Nalanda</strong>, be it Sita’s simplicity, Chanakya’s cleverness, or Buddha's balance — this place is what rhythmed my reasoning.
 </p>
 
-<p>
-<img align="left" src="/images/ghat.jpg" width="150" style="margin-right: 15px;">
-Trained in the sacred soil of **Varanasi**, where Maa Ganga flows and Lord Shiva resides, I found my balance between temples and theorems - strolling through the ghats of Varanasi and the streets of **Banaras Hindu University**.
+<p style="overflow: auto;">
+  <img src="/images/ghat.jpg" alt="Varanasi Ghat" style="float: left; margin: 10px 20px 15px 0; width: 150px; border-radius: 8px;">
+  Trained in the sacred soil of <strong>Varanasi</strong>, where Maa Ganga flows and Lord Shiva resides, I found my balance between temples and theorems — strolling through the ghats of Varanasi and the streets of <strong>Banaras Hindu University</strong>.
 </p>
 
-<p>
-<img align="right" src="/images/phd viva.jpg" width="150" style="margin-right: 15px;">
-My journey with Bayes began with fear and uncertainty, but led to faith and understanding for this school of thought when I defended my PhD thesis in June of 2025. 
+<p style="overflow: auto;">
+  <img src="/images/phd viva.jpg" alt="PhD Defense" style="float: right; margin: 10px 0 15px 20px; width: 150px; border-radius: 8px;">
+  My journey with Bayes began with fear and uncertainty, but led to faith and understanding for this school of thought when I defended my PhD thesis in <strong>June 2025</strong>.
 </p>
+
 
 ------
 
