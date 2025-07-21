@@ -10,7 +10,7 @@ redirect_from:
 **Hi, I am Dr. Shambhavi Singh!** 🎓📊📈
 
 <p style="overflow: auto;">
-  <img src="/images/buddha.jpg" alt="Bihar and Buddha" style="float: right; margin: 20px 0 15px 20px; width: 250px; height: 250px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/buddha.jpg" alt="Bihar and Buddha" style="float: right; margin: 10px 0 15px 20px; width: 250px; height: 250px; object-fit: cover; border-radius: 8px;">
 Born and brought up in Bihar — a land steeped in knowledge. With the world’s first democracy in <strong>Vaishali</strong> and one of the oldest universities in <strong>Nalanda</strong>, be it Sita’s simplicity, Chanakya’s cleverness, or Buddha's balance — this place is what rhythmed my reasoning.
 </p>
 
