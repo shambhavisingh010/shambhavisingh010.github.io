@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 Get my detailed CV [here](/files/shambhavi postdoc cv.pdf).
-change
+
 Education
 ======
 
@@ -50,6 +50,7 @@ Publications
   {% endfor %}
 </ul>
 
+
 Talks and Presentations
 ======
 
@@ -58,6 +59,7 @@ Talks and Presentations
     {% include archive-single-talk-cv.html %}
   {% endfor %}
 </ul>
+
 
 
 Awards and Recognitions
@@ -74,6 +76,4 @@ Awards and Recognitions
 * Gold Medal: Awarded by Patna University for securing first rank in M.Sc. Statistics.
   
 * Student Member, Internal Quality Assurance Cell (NAAC), Patna University.
-
-
-<!-- Trigger new deployment --!>
+------
