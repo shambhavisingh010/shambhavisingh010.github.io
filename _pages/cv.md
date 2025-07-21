@@ -53,14 +53,13 @@ Awards and Recognitions
 
 Publications
 ======
-
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
 
+
 Talks and Presentations
 ======
-
 {% for post in site.talks reversed %}
   {% include archive-single-talk-cv.html %}
 {% endfor %}
