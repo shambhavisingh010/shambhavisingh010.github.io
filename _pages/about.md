@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 **Hi, I am Dr. Shambhavi Singh!** 🎓📊📈
+
 <p>
 <img align="right" src="/images/buddha.jpg" width="150" style="margin-right: 15px;">
 
@@ -22,6 +23,7 @@ Trained in the sacred soil of **Varanasi**, where Maa Ganga flows and Lord Shiva
 <p>
 <img align="right" src="/images/phd viva.jpg" width="150" style="margin-right: 15px;">
 My journey with Bayes began with fear and uncertainty, but led to faith and understanding for this school of thought when I defended my PhD thesis in June of 2025. 
+</p>
 
 ------
 
