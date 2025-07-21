@@ -43,27 +43,22 @@ Skills
 
 Publications
 ======
-
 <ul>
   {% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
 
-
 Talks and Presentations
 ======
-
 <ul>
   {% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}
 </ul>
 
-
 Awards and Recognitions
 ======
-
 * **Best Paper Award** at the International Conference on Recent Developments in the Techniques of Bayesian Paradigm held at BHU, January 2025.
 
 * **INSPIRE Fellowship**: Awarded by the Department of Science and Technology (DST), Government of India.
