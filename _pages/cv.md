@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Get my detailed CV [here](/files/shambhavi postdoc cv.pdf).
+Get my detailed CV [here](/files/shambhavi cv.pdf).
 
 Education
 ======
