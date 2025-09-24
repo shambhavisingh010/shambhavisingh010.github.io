@@ -2,7 +2,7 @@
 title: "Teaching Experience"
 collection: teaching
 permalink: /teaching/
-date: 2025-07-21
+date: 2025-08-04
 ---
 
 - Business Statistics.
